@@ -1,0 +1,31 @@
+_repo: Monsieur-Lecoq---Volume-1--13-L-enqu-te_8650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: ''
+gutenberg_bookshelf:
+- Detective Fiction
+- FR Littérature
+gutenberg_issued: '2008-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8650'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PQ'
+- GITenberg
+title: "Monsieur Lecoq — Volume 1\r\nL'enquête"
+url: http://www.gutenberg.org/ebooks/8650
